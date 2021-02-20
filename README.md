@@ -8,6 +8,8 @@ thanks to the original plankfilza author
 please follow him on twitter
 https://twitter.com/_bplank
 
-You can download the new version in releases 
+You can download the new version in Releases 
+
 Remember! Download v1.2
+
 The Aurora Team

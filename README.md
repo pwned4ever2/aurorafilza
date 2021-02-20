@@ -7,5 +7,7 @@ have the same function
 thanks to the original plankfilza author
 please follow him on twitter
 https://twitter.com/_bplank
-You can download the new version at the bottom in package
+
+You can download the new version in releases 
+Remember! Download v1.2
 The Aurora Team
